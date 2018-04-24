@@ -8,7 +8,7 @@
 
 1. 进入https://readthedocs.org/ 并注册一个账号；
 2. 在自己的Github上新建一个sphinx项目repo；
-2. 将ReadTheDocs（以下简称RTD）账号与自己的Github账号相关联；
+3. 将ReadTheDocs（以下简称RTD）账号与自己的Github账号相关联；
 4. 在RTD上新建一个project并将其与Github上的sphinx repo相关联；
 5. 下载Github Desktop桌面版，登陆，然后把sphinx repo clone到本地；
 6. 打开sphinx repo本地仓库所在文件夹，把source文件夹中的conf.py index.rst 以及自己建立的用于写rst文档的文件夹放到本地仓库然后再push；
