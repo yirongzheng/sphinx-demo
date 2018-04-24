@@ -10,9 +10,8 @@ Welcome to Docs like Code's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   1-introduction/intro.rst
-   1-introduction/build.rst
-   1-introduction/ergo.rst
+   1-introduction/sphinx静态发布.rst
+   1-introduction/ReadTheDoc与Github托管发布.rst
 
 
 
