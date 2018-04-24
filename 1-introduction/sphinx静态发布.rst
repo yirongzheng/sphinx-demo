@@ -6,7 +6,7 @@ Windows环境下sphinx的静态发布
 是不是迫不及待想把自己写的内容发布成一个静态网页了呢？
 来跟和我一起做吧~
 
-1. 首先你需要在source文件夹中创建一个新的文件夹，如"introduction"，并把你写的所有的rst文件都放在这个文件夹里；
-2. 打开source文件夹，找到"index.rst"文件并打开，然后在toctree部分，将自己写的每一个rst文件的完整路径都添加上去；
-3. 打开cmd进入到sphinx项目文件夹，然后执行sphinx-build -b html source build命令，等待一分钟就完成啦~
-4. 这时你可以打开build文件夹里面的index.html文件，你会发现你写的rst文档已经全部都发布好啦~
+1. 首先你需要在``source``文件夹中创建一个新的文件夹，如"introduction"，并把你写的所有的rst文件都放在这个文件夹里；
+2. 打开``source``文件夹，找到``index.rst``文件并打开，然后在``toctree``部分，将自己写的每一个rst文件的完整路径都添加上去；
+3. 打开cmd进入到sphinx项目文件夹，然后执行``sphinx-build -b html source build``命令，等待一分钟就完成啦~
+4. 这时你可以打开``build``文件夹里面的``index.html``文件，你会发现你写的rst文档已经全部都发布好啦~
