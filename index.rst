@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Docs like Code's documentation!
+Welcome to Sphinx Guide!
 ==========================================
 
 .. toctree::
@@ -14,10 +14,3 @@ Welcome to Docs like Code's documentation!
    1-introduction/ReadTheDoc与Github托管发布.rst
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
