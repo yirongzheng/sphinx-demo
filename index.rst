@@ -5,6 +5,7 @@
 
 Welcome to Sphinx Guide!
 ==========================================
+Author:易嵘峥
 
 .. toctree::
    :maxdepth: 2
